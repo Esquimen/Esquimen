@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Les Stats GitHub de Esquimen](https://github-readme-stats.vercel.app/api?username=Esquimen&count_private=true&show_icons=true)](https://github.com/Esquimen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esquimen&layout=compact)](https://github.com/Esquimen/github-readme-stats)
