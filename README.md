@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/Esquimen/github-readme-stats">
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esquimen&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Esquimen/github-readme-stats">
+</span>
+<span>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esquimen&layout=compact" />
-</a>
+</span>
