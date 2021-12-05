@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Les Stats GitHub de Esquimen](https://github-readme-stats.vercel.app/api?username=Esquimen&count_private=true)](https://github.com/Esquimen/github-readme-stats)
+[![Les Stats GitHub de Esquimen](https://github-readme-stats.vercel.app/api?username=Esquimen&count_private=true&show_icons=true)](https://github.com/Esquimen/github-readme-stats)
