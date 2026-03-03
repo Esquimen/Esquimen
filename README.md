@@ -15,10 +15,3 @@ Here are some ideas to get you started:
 
 🇫🇷 Bonjour à tous !
 🇺🇸 Hello to all !
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esquimen&count_private=true&show_icons=true&theme=dark"/>
-</span>
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esquimen&layout=compact&theme=dark"/>
-</span>
